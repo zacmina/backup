@@ -30,7 +30,7 @@
     "retries": 5,
     "retry-pause": 5,
     "safe": false,
-    "threads": 3,
+    "threads": 2,
     "user-agent": null,
     "syslog": false,
     "watch": true
